@@ -1,0 +1,16 @@
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\bin\Debug\EvidencePojisteni.exe.config
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\bin\Debug\EvidencePojisteni.exe
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\bin\Debug\EvidencePojisteni.pdb
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\obj\Debug\EvidencePojisteniConsole.csproj.AssemblyReference.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\obj\Debug\EvidencePojisteniConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\obj\Debug\EvidencePojisteniConsole.csproj.CoreCompileInputs.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\obj\Debug\EvidencePojisteni.exe
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteni\obj\Debug\EvidencePojisteni.pdb
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\bin\Debug\EvidencePojisteni.exe.config
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\bin\Debug\EvidencePojisteni.exe
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\bin\Debug\EvidencePojisteni.pdb
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\obj\Debug\EvidencePojisteniConsole.csproj.AssemblyReference.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\obj\Debug\EvidencePojisteniConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\obj\Debug\EvidencePojisteniConsole.csproj.CoreCompileInputs.cache
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\obj\Debug\EvidencePojisteni.exe
+C:\Users\Busem\Dropbox\ITNetwork\Projekt\EvidencePojisteniConsole\obj\Debug\EvidencePojisteni.pdb
